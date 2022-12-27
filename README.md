@@ -2,7 +2,7 @@
 
 ## Sentiment Analysis using Word2Vec for feature extraction and Feed Forward Neural Networks, Recurrent Neural Networks &amp; Gated Recurrent Neural Networks
 
-**### This project involves following steps:**
+**This project involves following steps:**
 
 1. Read Amazon Reviews data into Pandas dataframe
 
